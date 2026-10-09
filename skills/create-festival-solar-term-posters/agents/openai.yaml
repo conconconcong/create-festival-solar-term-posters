@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sunny & Molly 节日海报"
+  short_description: "一次生成无字主视觉，并用独立标题 Skill 与 Python 完成品牌合成"
+  default_prompt: "使用 $create-festival-solar-term-posters 快速制作 Sunny & Molly 节日海报；默认只生成一次无字主视觉，标题交给 $festival-poster-title-typography，再用 Python 合成。"

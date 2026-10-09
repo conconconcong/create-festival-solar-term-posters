@@ -1,0 +1,6 @@
+interface:
+  display_name: "节日节气海报标题字"
+  short_description: "分析画面语义、季节氛围与版式空间，匹配并生成中文主标题字"
+  default_prompt: "使用 $festival-poster-title-typography 根据这张画面为指定节日或节气设计标题字。"
+policy:
+  allow_implicit_invocation: true
