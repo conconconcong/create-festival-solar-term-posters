@@ -4,6 +4,14 @@
 
 本仓库发布的是**独立标题流程版本**：一次生成无字主视觉，再生成原创中文标题素材，最后用 Python 合成标题、固定文案、真实 Logo 和二维码。
 
+## 海报案例
+
+以下为用户提供的秋分与七夕海报案例，保留原图（1080 × 2335 px）；点击图片可查看完整尺寸。
+
+| 秋分 | 七夕 |
+| :---: | :---: |
+| [![秋分海报：小帅与茉莉在金色秋叶间望向飞鸟](examples/autumn-equinox.jpg)](examples/autumn-equinox.jpg) | [![七夕海报：小帅与茉莉相依乘鹊，穿行星空](examples/qixi.jpg)](examples/qixi.jpg) |
+
 ## 仓库内容
 
 - [`create-festival-solar-term-posters`](skills/create-festival-solar-term-posters/SKILL.md)：主海报技能，包含角色母版、品牌素材、文案字体、参考规范和合成脚本。
